@@ -1,0 +1,6 @@
+de\devsnx\simplecloudnpc\manager\NPCManager.class
+de\devsnx\simplecloudnpc\commands\NPCommand.class
+de\devsnx\simplecloudnpc\utils\FileBase.class
+de\devsnx\simplecloudnpc\listener\PlayerJoinListener.class
+de\devsnx\simplecloudnpc\SimpleCloud_NPC.class
+de\devsnx\simplecloudnpc\file\NPCFile.class
