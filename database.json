@@ -1,0 +1,9 @@
+{
+  "host": "localhost",
+  "port": 3306,
+  "databaseName": "SimpleCloud",
+  "userName": "SimpleCloud",
+  "password": "^9clhU861",
+  "collectionPrefix": "cloud_",
+  "databaseType": "MYSQL"
+}

@@ -35,7 +35,7 @@ public class NPCommand implements CommandExecutor {
             }
             String name = args[1];
             String service = args[2];
-            SimpleCloud_NPC.getNpcManager().createNPC(name, player.getLocation(), service ,"");
+            SimpleCloud_NPC.getNpcManager().createNPC(name, player.getLocation(), service);
             return true;
         }
 
